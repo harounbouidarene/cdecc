@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-dm);
+  --font-display: var(--font-bricolage);
+}
+
+body {
+  background: #f5f3ef;
+  color: #1c1917;
+}
